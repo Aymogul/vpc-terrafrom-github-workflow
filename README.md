@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VPC creation with TERRRAFORM and GitHub Action as CI/CD
 This proect focuses on a wide range of best practices required for the deployment of a web page into a highly scalable and available infrastructure on AWS with Terraform being an IAC tool to achieve this.
 GitHub action was also employed to enhance smooth workflow of continous integration and continous deployment by triggering the deploy.yaml on push from feature branch to the main branch.
@@ -85,3 +86,9 @@ Make a Change in Any file, commit and push those changes. It will trigger the pi
 
 ##THANK YOU
 
+=======
+# vpc-terrafrom-github-workflow
+creating a vpc using terraform as IAC and github actionn as ci/cd
+
+## Introduction
+>>>>>>> de92d3ee6e3371296285c01892448e40144754e3
